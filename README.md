@@ -1,18 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google Search CLONE
 
-## Getting Started
+<img src="https://i.ibb.co/wgkpnx7/Screenshot-2024-08-04-at-10-30-38-PM.png" alt="Screenshot-2024-08-04-at-10-30-38-PM" border="0">
 
-First, run the development server:
+A functional replica of Google's search page, you can use it for searches. Styled with Tailwind CSS to Rapidly build and look as close as possible to current google search page, the search results are pulled using Googles Programmable Search Engine and it was build using Next.js the react framework.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation
+
+  Clone the repo in your terminal writting:
+
+  #### `$ git clone https://github.com/kaifshaikh22/google-next
+
+## `npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -27,10 +25,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
